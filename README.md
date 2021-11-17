@@ -7,7 +7,8 @@
 - userid	作者のユーザーID
 - writer	作者名
 - biggenre	大ジャンル 1:恋愛 2:ファンタジー 3:文芸 4:SF 99:その他 98:ノンジャンル
-- genre	ジャンル 
+- genre	ジャンル  
+
 |number|genre|
 |---|---|
 |101|異世界〔恋愛〕|
